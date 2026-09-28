@@ -1,8 +1,8 @@
 {
   "feabc0cf6eb08bb63717f2a05a988ae9bacadc6335228e2271a0e98f7ae4648e": {
     "plan": "Prueba",
-    "vence": "2026-10-27",
-    "activo": true,
+    "vence": "2026-09-26",
+    "activo": false,
     "extras": []
   }
 }
