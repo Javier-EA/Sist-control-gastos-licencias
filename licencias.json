@@ -4,5 +4,11 @@
     "vence": "2026-10-20",
     "activo": true,
     "extras": []
+  },
+  "74f7f16cf6e128a0113f8c18b39ad2eab9df1910b7754bcb8a03ce2489489833": {
+    "plan": "Indefinido",
+    "vence": "2099-12-31",
+    "activo": true,
+    "extras": []
   }
 }
