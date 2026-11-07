@@ -2,7 +2,7 @@
   "feabc0cf6eb08bb63717f2a05a988ae9bacadc6335228e2271a0e98f7ae4648e": {
     "plan": "Prueba",
     "vence": "2026-10-20",
-    "activo": true,
+    "activo": false,
     "extras": []
   },
   "74f7f16cf6e128a0113f8c18b39ad2eab9df1910b7754bcb8a03ce2489489833": {
